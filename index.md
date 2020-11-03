@@ -17,7 +17,6 @@ Click [here](PhD project.md) to read more about my PhD project.
 
 [GEOG5995M Programming for Social Sciences: Assignment 1](Projects.md)
 
-This link provides access to my GitHub repositary of which you can access the code needed to run an Agent-Based Model (ABM) in the programming language of Python.
 
 
 # Previous works

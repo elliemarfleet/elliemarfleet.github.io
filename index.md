@@ -10,7 +10,7 @@ My name is Ellie Marfleet and I am originally from Leicester but I have lived in
 
 
 # PhD project
-Click [here](PhD project) to read more about my PhD project.
+Click [here](PhD project.md) to read more about my PhD project.
 
 
 # Agent-based modelling project

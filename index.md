@@ -3,7 +3,7 @@ title: Ellie Marfleet
 ---
 
 
-hi 
+hi here'ssome personal info
 
 have to use actual file link on github for if they're in a diff repo
 
@@ -11,3 +11,8 @@ have to use actual file link on github for if they're in a diff repo
 ** bold
 
 link to homepage (index)
+
+
+here's a link to my project
+
+[GEOG... ASSIGNMENT 1](projects.md)

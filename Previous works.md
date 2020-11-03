@@ -9,7 +9,7 @@ Alternatively, access to my dissertation itself can be accessed [here](201097431
 
 # Edge Analytics work placement 
 
-My workplace project with Edge Analytics during the final year of my undergraduate degree involved evaluating the robustness of mid-year local authority population estimates, identifying where the level of error is likely to be most significant and the reasons driving these errors. The findings of this project are integral for the support of public service planning (education, housing, social care, healthcare), as the rise of COVID-19 has proved the importance of accurate population estimates to ensure health services are equipped to cater for the populations they serve.
+My workplace project with [Edge Analytics](https://edgeanalytics.co.uk/) during the final year of my undergraduate degree involved evaluating the robustness of mid-year local authority population estimates, identifying where the level of error is likely to be most significant and the reasons driving these errors. The findings of this project are integral for the support of public service planning (education, housing, social care, healthcare), as the rise of COVID-19 has proved the importance of accurate population estimates to ensure health services are equipped to cater for the populations they serve.
 
 
 # Forecasting residential property demand

@@ -1,10 +1,10 @@
 # My PhD
 
-** External project partner: [Ordance Survey](https://www.ordnancesurvey.co.uk/)
+**External project partner: [Ordance Survey](https://www.ordnancesurvey.co.uk/)
 
-** Supervisor: [Ed Manley](https://environment.leeds.ac.uk/geography/staff/9293/professor-ed-manley)
+**Supervisor: [Ed Manley](https://environment.leeds.ac.uk/geography/staff/9293/professor-ed-manley)
 
-* Project aims
+*Project aims
 
 
 

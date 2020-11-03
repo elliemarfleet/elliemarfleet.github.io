@@ -2,7 +2,7 @@
 
 My undergraduate dissertation involved analysing a new form of *big*-data, as my collaboration with private sector company [huq](https://huq.io/) provided me with an extract of their mobile-phone data (MPD) from 2019. The analysis of this dataset through **Excel, R, QGIS** and **MapInfo** provided an insight into the potential uses of MPD to infer origin-destination travel to work behaviours, as the representativeness of this dataset was identified through comparison with 2011 commuting statistics. The findings of this project can be used to inform policy making, as a real-time refresh on now outdated census statistics indicates the busiest commuting routes and potential areas for expansion, of which autonomous vehicles could be trialled as their potential usage has been verified by local demand (hence the connections to my [PhD project](Phd project.md)).
 
-To view a guest blogpost I produced for huq industries outlining my project and the experinece I had working with a private sector company, please click [here](https://huq.io/opinion/a-real-time-refresh-on-2011-census-stats-using-huqs-geo-data/) to be redirected to their website.
+To view a guest blogpost I produced for huq industries outlining my project and the experience I had working with a private sector company, please click [here](https://huq.io/opinion/a-real-time-refresh-on-2011-census-stats-using-huqs-geo-data/) to be redirected to their website.
 
 Alternatively, access to my dissertation itself can be accessed [here](201097431_DISSERTATION2.pdf).
 

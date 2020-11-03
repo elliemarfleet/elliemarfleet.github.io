@@ -1,6 +1,6 @@
 ## ABM project
 
-This [link](https://github.com/elliemarfleet/PFSS-Python) provides access to my GitHub repositary of which you can access the code needed to run the ABM in the programming language of Python.
+This [link](https://github.com/elliemarfleet/PFSS-Python) provides access to my GitHub repository of which you can access the code needed to run the ABM in the programming language of Python.
 
 The model algorithm follows:
 - Reads data into an environment

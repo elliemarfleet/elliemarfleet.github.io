@@ -4,7 +4,7 @@ My undergraduate dissertation involved analysing a new form of *big*-data, as my
 
 To view a guest blogpost I produced for huq industries outlining my project and the experinece I had working with a private sector company, please click [here](https://huq.io/opinion/a-real-time-refresh-on-2011-census-stats-using-huqs-geo-data/) to be redirected to their website.
 
-Alternatively, access to my dissertation itself can be accessed [here]().
+Alternatively, access to my dissertation itself can be accessed [here](201097431_DISSERTATION2.pdf).
 
 
 # Edge Analytics work placement 

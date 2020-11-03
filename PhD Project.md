@@ -6,7 +6,7 @@
 
 **Supervisor**: [Ed Manley](https://environment.leeds.ac.uk/geography/staff/9293/professor-ed-manley)
 
-*Project summary
+*Project summary*
 
 The automation of urban transportation systems has the potential to significantly impact the human experience of cities. Autonomous vehicles (AVs) – from private cars, to shared taxis, and buses – promise improved traffic efficiency and road safety yet raise questions around their effect on the urban realm and the changing nature of human-vehicle interaction. The implementation of wholly autonomous mobility systems furthermore presents policy challenges in relation to access, design, and vehicle ownership. This PhD project will take on these broader implications of autonomous mobility, using agent-based modelling (ABM) to explore the spatial, social, and policy implications of AVs at the urban scale. 
 

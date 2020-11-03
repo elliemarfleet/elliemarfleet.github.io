@@ -10,7 +10,7 @@ The model algorithm follows:
 - If agents eat more than 100 stores of data they are 'sick' and the stores are deposited in the environment
 - Prints their total store (amount eaten) to a file
 
-*It is recommended you consult the [README](https://github.com/elliemarfleet/PFSS-Python/blob/main/README.md) file before attempting to run the model*
+**It is recommended you consult the [README](https://github.com/elliemarfleet/PFSS-Python/blob/main/README.md) file before attempting to run the model.**
 
 Enjoy!
 

@@ -15,4 +15,4 @@ link to homepage (index)
 
 here's a link to my project
 
-[GEOG... ASSIGNMENT 1](projects.md)
+[GEOG... ASSIGNMENT 1](Projects.md)

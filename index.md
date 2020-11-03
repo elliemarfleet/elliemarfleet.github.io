@@ -21,3 +21,7 @@ Click [here](PhD project.md) to read more about my PhD project.
 
 # Previous works
 Click [here](Previous works.md) to read more about projects I have previously worked on.
+
+
+
+[View mt Github profile here](https://github.com/elliemarfleet)

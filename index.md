@@ -13,3 +13,7 @@ Click [here](PhD Project) to read more about my PhD project.
 # Agent-Based Modelling Project
 
 [GEOG5995M Programming for Social Sciences: Assignment 1](Projects.md)
+
+
+# Previous Works
+Click [here]() to read more about projects I have previously worked on.
